@@ -21,8 +21,8 @@ nav{ background-color: #ecf0f3;
 	padding: 5%;
 	/*padding-bottom: 3%;*/
 }
-nav img{
-	width: 260px; height: 260px;position:absolute;top: 20%;left: 50%; border-radius: 50%;
+#myimg{
+	width: 260px; height: 260px; border-radius: 50%;
 	/*padding-top: 90px;*/
 	/*margin-left: 49%;
     transform: translate(-50%,0px);*/
