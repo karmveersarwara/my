@@ -27,6 +27,7 @@ nav{ background-color: #ecf0f3;
 	/*margin-left: 49%;
     transform: translate(-50%,0px);*/
 }
+#myimg img{width: 100%;}
 nav h1{
 	padding-top: 20px;
     font-size: 35px;  
