@@ -22,6 +22,7 @@ nav{ background-color: #ecf0f3;
 	/*padding-bottom: 3%;*/
 }
 #myimg{
+	position: relative; left: 50%;transform: translate(-50%, 0px);
 	width: 260px; height: 260px; border-radius: 50%;
 	overflow: hidden;
 	box-shadow: -1px -1px 15px 2px white, 5px 5px 15px -5px #001224 ,inset -15px -15px 15px -20px #000000,inset 2px 2px 15px 5px rgba(255, 255, 255, 0.829);
