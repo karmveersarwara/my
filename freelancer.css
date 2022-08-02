@@ -145,7 +145,7 @@ nav h2{ font-size: 21px;color: #3c3e41;}
 /*.sbox2 img:hover{width: 40px; margin: 25%;}*/
 .main h2{opacity: 0.8;}
 .main h4{opacity: 0.8;}
-.main li{list-style-position: inside; font-size: large; padding: 5px;}
+.main li{list-style-position: inside; font-size: large; padding: 5px;overflow: hidden;}
 .main li:hover{color: #ff014f; font-size: larger;transition: var(--transition); }
 /*li::marker{opacity: 0.5;}*/
 
