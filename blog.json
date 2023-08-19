@@ -1,16 +1,16 @@
 [
     {
-      "id":1,"name":"Logo","title":"My Birthday Celebration","author":"Karmveer Singh","date":"07 Dec 2022",
+      "id":1,"name":"Celebration","title":"My Birthday Celebration","author":"Karmveer Singh","date":"07 Dec 2022",
       "dis":"Celebrated my birthday for the first time in office. I was shocked that Diljit Dhillon sir has organized a party for me under cake order. For the first time I celebrated my birthday by cutting a cake.Then everyone enjoyed the party and everyone was very happy, after the party in the evening talked to the family about the experience of the party.  Thanks a lot of all team",
       "img":""
     },
     {
-      "id":2,"name":"Design","title":"Career in Web Development","author":"Karmveer Singh","date":"07 Dec 2022",
+      "id":2,"name":"Development","title":"Career in Web Development","author":"Karmveer Singh","date":"07 Dec 2022",
       "dis":"Web development is a rapidly growing field with plenty of opportunities for those with the right skills.According to the Bureau of Labor Statistics, the job outlook for web developers is expected to grow 13% from 2019 to 2029, much faster than the average for all occupations.With the right skills and dedication, you can become a successful web developer,",
       "img":""
     },
     {
-      "id":3,"name":"Develop","title":"Importance of Innovation ","author":"Karmveer Singh","date":"07 Dec 2022",
+      "id":3,"name":"Innovation","title":"Importance of Innovation ","author":"Karmveer Singh","date":"07 Dec 2022",
       "dis":"Innovation is essential for web developers to stay ahead of the competition and create the best possible user experience. By innovating, web developers can create new and improved features, tools, and technologies that make websites more efficient, user-friendly, and visually appealing. Innovation also helps  stay up to date with the latest trends and technologies",
       "img":""
     }
