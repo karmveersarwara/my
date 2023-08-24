@@ -28,17 +28,8 @@
     "img": "/port3.jpg",
     "link": "http://i-smartmedia.com/", 
     "description": "ranging"
-  },
+  }, 
   {
-    "id": 4, 
-    "name": "Amber ", 
-    "aos": "fade-right", 
-    "category": "Web Development", 
-    "element": "Todo list", 
-    "img": "/port3.jpg",
-    "link": "http://Amber.com/", 
-    "description": "ranging"
-  },{
     "id": 5, 
     "name": "Digi Invite", 
     "aos": "fade-right", 
