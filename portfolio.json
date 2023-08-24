@@ -28,25 +28,5 @@
     "img": "/port3.jpg",
     "link": "http://i-smartmedia.com/", 
     "description": "ranging"
-  }, 
-  {
-    "id": 5, 
-    "name": "Digi Invite", 
-    "aos": "fade-right", 
-    "category": "Web Development ", 
-    "element": "Home", 
-    "img": "/port1.jpg",
-    "link": "http://digiinvite.in", 
-    "description": "Antarctica"
-  },
-  {
-    "id": 6, 
-    "name": "White Box Logistic", 
-    "aos": "fade-right", 
-    "category": "Web Design", 
-    "element": "Blogs", 
-    "img": "/port2.jpg",
-    "link": "https://whiteboxlogistic.ca/", 
-    "description": "widespread"
   }
 ]
