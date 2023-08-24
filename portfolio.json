@@ -57,15 +57,5 @@
     "img": "/port2.jpg",
     "link": "https://whiteboxlogistic.ca/", 
     "description": "widespread"
-  },
-  {
-    "id": 7, 
-    "name": "I Smart Media", 
-    "aos": "fade-right", 
-    "category": "Web Design", 
-    "element": "Todo list", 
-    "img": "/port3.jpg",
-    "link": "http://i-smartmedia.com/", 
-    "description": "ranging"
   }
 ]
