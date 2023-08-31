@@ -7,7 +7,7 @@
     "element": "Home", 
     "img": "/port1.jpg",
     "link": "http://digiinvite.in", 
-    "description": "Antarctica"
+    "description": "React Js"
   },
   {
     "id": 2, 
@@ -16,8 +16,8 @@
     "category": "Web Design", 
     "element": "Blogs", 
     "img": "/port2.jpg",
-    "link": "https://whiteboxlogistic.ca/", 
-    "description": "widespread"
+    "link": "https://whiteboxlogistic.site/", 
+    "description": "HTML,CSS, Javascript"
   },
   {
     "id": 3, 
@@ -27,6 +27,67 @@
     "element": "Todo list", 
     "img": "/port3.jpg",
     "link": "http://i-smartmedia.com/", 
-    "description": "ranging"
+    "description": "React js "
+  },
+  {
+    "id": 4, 
+    "name": "House of beauty lounge", 
+    "aos": "fade-right", 
+    "category": "Web Design", 
+    "element": "Todo list", 
+    "img": "https://karmveersarwara.github.io/my/portfolio4.jpg",
+    "link": "https://houseofbeautylounge.com.au", 
+    "description": "House of beauty lounge dynamic in Php"
+  },
+  {
+    "id": 5, 
+    "name": "Tusher Films ", 
+    "aos": "fade-right", 
+    "category": "Web Design", 
+    "element": "Todo list", 
+    "img": "https://karmveersarwara.github.io/my/portfolio5.jpg",
+    "link": "http://tusharfilms.com", 
+    "description": "Tusher Films Dynamic  in Php"
+  },
+  {
+    "id": 6, 
+    "name": "Amber Visa Consultancy ", 
+    "aos": "fade-right", 
+    "category": "Web Design", 
+    "element": "Todo list", 
+    "img": "https://karmveersarwara.github.io/my/portfolio6.jpg",
+    "link": "https://ambervisaconsultancy.com", 
+    "description": "Amber Visa Consultancy (dynamic in Php)"
+  },
+  {
+    "id": 7, 
+    "name": "Silver Vatika School ", 
+    "aos": "fade-right", 
+    "category": "Web Design", 
+    "element": "Todo list", 
+    "img": "https://karmveersarwara.github.io/my/portfolio7.jpg",
+    "link": "http://demos.digiinvite.in/silver", 
+    "description": "Silver Vatika School (dynamic in php)"
+  },
+  {
+    "id": 8, 
+    "name": "White Cloud immigration", 
+    "aos": "fade-right", 
+    "category": "Web Design", 
+    "element": "Todo list", 
+    "img": "https://karmveersarwara.github.io/my/portfolio8.jpg",
+    "link": "http://whitecloudimmigration.ca", 
+    "description": "White Cloud immigration -HTML,CSS and Javascript"
+  },
+  {
+    "id": 9, 
+    "name": "Shivam Medical Store Pehowa", 
+    "aos": "fade-right", 
+    "category": "Web Design", 
+    "element": "Todo list", 
+    "img": "https://karmveersarwara.github.io/my/portfolio9.jpg",
+    "link": "http://shivammedicalstorepehowa.com/", 
+    "description": "Shivam Medical Store Pehowa  -HTML,CSS and Javascript"
   }
+  
 ]
