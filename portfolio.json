@@ -30,6 +30,16 @@
     "description": "React js "
   },
   {
+    "id": "gorecruiter", 
+    "name": "Go Recruiter", 
+    "aos": "fade-right", 
+    "category": "Web Development ", 
+    "element": "Home", 
+    "img": "https://karmveersarwara.github.io/my/gorecruiter.png",
+    "link": "https://gorecruiter.in/", 
+    "description": "dynamic in php with admin panel and student panel"
+  },
+  {
     "id": 4, 
     "name": "House of beauty lounge", 
     "aos": "fade-right", 
