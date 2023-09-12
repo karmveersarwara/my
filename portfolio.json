@@ -51,16 +51,6 @@
   },
   {
     "id": 5, 
-    "name": "Tusher Films ", 
-    "aos": "fade-right", 
-    "category": "Web Design", 
-    "element": "Todo list", 
-    "img": "https://karmveersarwara.github.io/my/portfolio5.jpg",
-    "link": "http://tusharfilms.com", 
-    "description": "Tusher Films Dynamic  in Php"
-  },
-  {
-    "id": 6, 
     "name": "Amber Visa Consultancy ", 
     "aos": "fade-right", 
     "category": "Web Design", 
@@ -68,6 +58,16 @@
     "img": "https://karmveersarwara.github.io/my/portfolio6.jpg",
     "link": "https://ambervisaconsultancy.com", 
     "description": "Amber Visa Consultancy (dynamic in Php)"
+  },
+  {
+    "id": 6, 
+    "name": "Tusher Films ", 
+    "aos": "fade-right", 
+    "category": "Web Design", 
+    "element": "Todo list", 
+    "img": "https://karmveersarwara.github.io/my/portfolio5.jpg",
+    "link": "http://tusharfilms.com", 
+    "description": "Tusher Films Dynamic  in Php"
   },
   {
     "id": 7, 
