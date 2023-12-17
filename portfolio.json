@@ -5,7 +5,7 @@
     "aos": "fade-right", 
     "category": "Web Development", 
     "element": "Home", 
-    "img": "https://karmveersarwara.github.io/my/onlinekitabghar.jpg",
+    "img": "https://karmveersarwara.github.io/my/portfolio1.jpg",
     "link": "http://onlinekitabghar.vercel.app/", 
     "description": "Onlinekitabghar developed with latest technology (Next js, Laravel )"
   },
@@ -25,7 +25,7 @@
     "aos": "fade-right", 
     "category": "Web Development ", 
     "element": "Home", 
-    "img": "https://karmveersarwara.github.io/my/crm.png",
+    "img": "https://karmveersarwara.github.io/my/portfolio3.jpg",
     "link": "http://crm.crazeit.in/", 
     "description": "Business Management Software developed with PHP "
   },
