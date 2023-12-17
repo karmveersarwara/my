@@ -21,6 +21,16 @@
   },
   {
     "id": 3, 
+    "name": "Business Management Software", 
+    "aos": "fade-right", 
+    "category": "Web Development ", 
+    "element": "Home", 
+    "img": "https://karmveersarwara.github.io/my/crm.png",
+    "link": "http://crm.crazeit.in/", 
+    "description": "Business Management Software developed with PHP "
+  },
+  {
+    "id": 6, 
     "name": "White Box Logistic", 
     "aos": "fade-right", 
     "category": "Web Design", 
@@ -30,7 +40,7 @@
     "description": "HTML,CSS, Javascript"
   },
   {
-    "id": 4, 
+    "id": 7, 
     "name": "I Smart Media", 
     "aos": "fade-right", 
     "category": "Web Design", 
@@ -40,7 +50,7 @@
     "description": "React js "
   },
   {
-    "id": 5, 
+    "id": 8, 
     "name": "Go Recruiter", 
     "aos": "fade-right", 
     "category": "Web Development ", 
@@ -50,7 +60,7 @@
     "description": "dynamic in php with admin panel and student panel"
   },
   {
-    "id": 6, 
+    "id": 9, 
     "name": "House of beauty lounge", 
     "aos": "fade-right", 
     "category": "Web Design", 
@@ -60,7 +70,7 @@
     "description": "House of beauty lounge dynamic in Php"
   },
   {
-    "id": 7, 
+    "id": 10, 
     "name": "Amber Visa Consultancy ", 
     "aos": "fade-right", 
     "category": "Web Design", 
@@ -70,7 +80,7 @@
     "description": "Amber Visa Consultancy (dynamic in Php)"
   },
   {
-    "id": 8, 
+    "id": 11, 
     "name": "Tusher Films ", 
     "aos": "fade-right", 
     "category": "Web Design", 
@@ -80,7 +90,7 @@
     "description": "Tusher Films Dynamic  in Php"
   },
   {
-    "id": 9, 
+    "id": 12, 
     "name": "Silver Vatika School ", 
     "aos": "fade-right", 
     "category": "Web Design", 
@@ -90,7 +100,7 @@
     "description": "Silver Vatika School (dynamic in php)"
   },
   {
-    "id": 10, 
+    "id": 13, 
     "name": "White Cloud immigration", 
     "aos": "fade-right", 
     "category": "Web Design", 
@@ -100,7 +110,7 @@
     "description": "White Cloud immigration -HTML,CSS and Javascript"
   },
   {
-    "id": 11, 
+    "id": 14, 
     "name": "Shivam Medical Store Pehowa", 
     "aos": "fade-right", 
     "category": "Web Design", 
