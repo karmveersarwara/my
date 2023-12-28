@@ -15,7 +15,7 @@
     "aos": "fade-right", 
     "category": "Web Development ", 
     "element": "Home", 
-    "img": "/port1.jpg",
+    "img": "https://karmveersarwara.github.io/my/digiinvite.jpg",
     "link": "http://digiinvite.in", 
     "description": "React Js"
   },
@@ -35,7 +35,7 @@
     "aos": "fade-right", 
     "category": "Web Design", 
     "element": "Blogs", 
-    "img": "/port2.jpg",
+    "img": "https://karmveersarwara.github.io/my/whiteboxlogistic.jpg",
     "link": "https://whiteboxlogistic.site/", 
     "description": "HTML,CSS, Javascript"
   },
@@ -45,7 +45,7 @@
     "aos": "fade-right", 
     "category": "Web Design", 
     "element": "Todo list", 
-    "img": "/port3.jpg",
+    "img": "https://karmveersarwara.github.io/my/ismartmedia.jpg",
     "link": "http://i-smartmedia.com/", 
     "description": "React js "
   },
