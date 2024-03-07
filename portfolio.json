@@ -30,6 +30,16 @@
     "description": "Business Management Software developed with PHP "
   },
   {
+    "id": 4, 
+    "name": "Udaan Institute Bathinda", 
+    "aos": "fade-right", 
+    "category": "Web Development",
+    "element": "Home", 
+    "img": "https://karmveersarwara.github.io/my/udaan.jpg",
+    "link": "https://udaaninstitutebathinda.com/", 
+    "description": "MERN stack "
+  },
+  {
     "id": 6, 
     "name": "White Box Logistic", 
     "aos": "fade-right", 
