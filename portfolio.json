@@ -91,13 +91,13 @@
   },
   {
     "id": 11, 
-    "name": "Tusher Films ", 
+    "name": "Dayslander Motel Canada", 
     "aos": "fade-right", 
     "category": "Web Design", 
     "element": "Todo list", 
-    "img": "https://karmveersarwara.github.io/my/portfolio5.jpg",
-    "link": "http://tusharfilms.com", 
-    "description": "Tusher Films Dynamic  in Php"
+    "img": "https://karmveersarwara.github.io/my/dayslandermotel.jpg",
+    "link": "https://dayslandermotel.com/", 
+    "description": "Dayslander Motel canadain website -HTML,CSS and Javascript,dynamic in Php"
   },
   {
     "id": 12, 
@@ -128,6 +128,16 @@
     "img": "https://karmveersarwara.github.io/my/portfolio9.jpg",
     "link": "http://shivammedicalstorepehowa.com/", 
     "description": "Shivam Medical Store Pehowa  -HTML,CSS and Javascript"
+  },
+  {
+    "id": 15, 
+    "name": "Tusher Films ", 
+    "aos": "fade-right", 
+    "category": "Web Design", 
+    "element": "Todo list", 
+    "img": "https://karmveersarwara.github.io/my/portfolio5.jpg",
+    "link": "http://tusharfilms.com", 
+    "description": "Tusher Films Dynamic  in Php"
   }
   
 ]
